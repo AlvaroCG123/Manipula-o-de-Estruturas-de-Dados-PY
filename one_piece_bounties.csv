@@ -1,0 +1,33 @@
+Name,Bounty,Affiliation,Is_Marine,Has_Devil_Fruit,Devil_Fruit_Type
+Monkey D. Luffy,3000000000,Straw Hat Pirates,FALSE,TRUE,Zoan
+Roronoa Zoro,1111000000,Straw Hat Pirates,FALSE,FALSE,None
+Nami,366000000,Straw Hat Pirates,FALSE,FALSE,None
+Usopp,500000000,Straw Hat Pirates,FALSE,FALSE,None
+Sanji,1032000000,Straw Hat Pirates,FALSE,FALSE,None
+Tony Tony Chopper,1000,Straw Hat Pirates,FALSE,TRUE,Zoan
+Nico Robin,930000000,Straw Hat Pirates,FALSE,TRUE,Paramecia
+Franky,394000000,Straw Hat Pirates,FALSE,FALSE,None
+Brook,383000000,Straw Hat Pirates,FALSE,TRUE,Paramecia
+Jinbe,1100000000,Straw Hat Pirates,FALSE,FALSE,None
+Akainu,0,Marines,TRUE,TRUE,Logia
+Kizaru,0,Marines,TRUE,TRUE,Logia
+Fujitora,0,Marines,TRUE,TRUE,Paramecia
+Smoker,0,Marines,TRUE,TRUE,Logia
+Tashigi,0,Marines,TRUE,FALSE,None
+Koby,500000000,Marines,TRUE,FALSE,None
+Garp,0,Marines,TRUE,FALSE,None
+Sengoku,0,Marines,TRUE,TRUE,Zoan
+Ryokugyu,0,Marines,TRUE,TRUE,Logia
+Kaido,4611100000,Beast Pirates,FALSE,TRUE,Zoan
+King,1390000000,Beast Pirates,FALSE,TRUE,Zoan
+Queen,1320000000,Beast Pirates,FALSE,TRUE,Zoan
+Jack,1000000000,Beast Pirates,FALSE,TRUE,Zoan
+Trafalgar Law,3000000000,Heart Pirates,FALSE,TRUE,Paramecia
+Eustass Kid,3000000000,Kid Pirates,FALSE,TRUE,Paramecia
+Shanks,4048900000,Red Hair Pirates,FALSE,FALSE,None
+Marshall D. Teach,3996000000,Blackbeard Pirates,FALSE,TRUE,Logia
+Buggy,3189000000,Cross Guild,FALSE,TRUE,Paramecia
+Dracule Mihawk,3590000000,Cross Guild,FALSE,FALSE,None
+Sir Crocodile,1965000000,Cross Guild,FALSE,TRUE,Logia
+Boa Hancock,1659000000,Kuja Pirates,FALSE,TRUE,Paramecia
+Charlotte Katakuri,1057000000,Big Mom Pirates,FALSE,TRUE,Paramecia
